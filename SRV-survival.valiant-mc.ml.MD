@@ -1,0 +1,8 @@
+- name: survival  
+- service: _minecraft  
+- protocol: tcp
+- ttl: 30m  
+- priority: 0  
+- weight: 5  
+- port: 2578  
+- Target: survival.valiant-mc.ml

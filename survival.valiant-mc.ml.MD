@@ -1,0 +1,3 @@
+- ipv4: 54.39.246.13  
+- ttl: 30m
+- proxied: dns only

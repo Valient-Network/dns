@@ -1,0 +1,8 @@
+- name: factions  
+- service: _minecraft  
+- protocol: tcp
+- ttl: 30m  
+- priority: 0  
+- weight: 5  
+- port: 25751  
+- Target:factions.valiant-mc.ml

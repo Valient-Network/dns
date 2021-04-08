@@ -1,0 +1,4 @@
+- type: cname  
+- target: github.io (valiant-mc.ml)  
+- ttl: 30m  
+- proxy: false
